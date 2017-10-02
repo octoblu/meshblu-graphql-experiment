@@ -1,0 +1,19 @@
+{
+  "name": "meshblu-graphql-experiment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node command.js"
+  },
+  "repository": "git@github.com:octoblu/meshblu-graphql-experiment.git",
+  "author": "peterdemartini <thepeterdemartini@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "^0.29.2",
+    "fastify-apollo": "^1.2.0",
+    "graphql": "^0.11.6",
+    "graphql-tools": "^1.2.3",
+    "meshblu-config": "^9.0.2",
+    "meshblu-http": "^10.2.0"
+  }
+}
